@@ -1,0 +1,3 @@
+Hello Linux Hello Linux Hello Linux 
+
+ hello stdout
